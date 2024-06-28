@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🐱‍🚀 게임 개발자를 목표 공부하고 있는 주니어 개발자입니다.<br>📖 Learn : Shader <br>🎯 Target : 성장 가능성이 높은 사람, 꾸준히 발전할 수 있는 사람<br>👀 Interest : 게임 개발을 보다 잘할 수 있는 지식들</p>
+<p align="left">🐱‍🚀 게임 개발자를 목표 공부하고 있는 주니어 개발자입니다.<br>📖 Learn : Unity Shader Graph (https://github.com/lArc244785/URP-Shader-Graph) <br>🎯 Target : 성장 가능성이 높은 사람, 꾸준히 발전할 수 있는 사람<br>👀 Interest : 게임 개발을 보다 잘할 수 있는 지식들</p>
 
 ###
 
